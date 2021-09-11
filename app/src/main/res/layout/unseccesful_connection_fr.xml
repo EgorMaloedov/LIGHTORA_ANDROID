@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="262dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/ubuntu_b"
+            android:gravity="center"
+            android:text="Устройства не найдены"
+            android:textColor="@color/white"
+            android:textSize="40sp" />
+
+        <LinearLayout
+            android:id="@+id/shop_tv"
+            android:layout_width="223dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/ubuntu_m"
+                android:text="Вы можете перейти в"
+                android:textColor="@color/white"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/go_shop_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:fontFamily="@font/ubuntu_b"
+                android:onClick="onShopClick"
+                android:text="Магазин"
+                android:textColor="@color/maincolor"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lightora</string>
+    <string name="connect_btn">ПОДКЛЮЧИТЬ</string>
+    <string name="connect_tv">Давайте подключим устройство</string>
+    <string name="bottom_tv">Нет Lightora?</string>
+    <string name="bottom_link">Купить</string>
+</resources>

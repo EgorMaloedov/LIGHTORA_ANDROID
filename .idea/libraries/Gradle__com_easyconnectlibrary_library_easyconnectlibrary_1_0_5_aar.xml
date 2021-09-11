@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.easyconnectlibrary.library:easyconnectlibrary:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e33bdfb7acacb71a2f06ca5976abe8a9/transformed/easyconnectlibrary-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e33bdfb7acacb71a2f06ca5976abe8a9/transformed/easyconnectlibrary-1.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e33bdfb7acacb71a2f06ca5976abe8a9/transformed/easyconnectlibrary-1.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.easyconnectlibrary.library/easyconnectlibrary/1.0.5/6a16898cf0f6b5d81d8554099eda26b8186eef66/easyconnectlibrary-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.easyconnectlibrary.library/easyconnectlibrary/1.0.5/77bb600d2db2ddd37aed2b4760d6b8197b7535a1/easyconnectlibrary-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

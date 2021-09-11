@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="connect_btn">
+        <item name="android:fontFamily">@font/ubuntu_b</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:paddingHorizontal">25dp</item>
+        <item name="android:paddingVertical">18dp</item>
+        <item name="android:background">@drawable/connect_btn</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
